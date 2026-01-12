@@ -1,6 +1,6 @@
 # ChipChaser Privacy Policy
 
-**Last Updated: December 23, 2024**
+**Last Updated: January 12, 2025**
 
 ## 1. Introduction
 
@@ -79,7 +79,35 @@ When you use social features:
 - Feed activity - Games and audits you choose to share
 - Interactions - Likes and comments on friends' content
 
-### 2.6 Block and Report Data
+### 2.6 Direct Messaging Data
+
+When you use the direct messaging feature, we collect and store:
+
+**Message Content:**
+- Text messages you send and receive
+- Conversation history between you and other users
+- Message timestamps - When each message was sent
+- Message status - Sent, delivered, and read indicators
+
+**Conversation Metadata:**
+- Conversation participants - Who you are messaging with
+- Conversation creation date
+- Last message timestamp
+- Last read message indicators (for read receipts)
+
+**Real-Time Communication Data:**
+- WebSocket connection status - Whether you are actively connected
+- Typing indicators - When you are composing a message (not stored permanently)
+- Online/connection status - Temporary connection information
+
+**Important Privacy Information About Messaging:**
+- Messages are only visible to conversation participants
+- We do not scan or analyze message content for advertising purposes
+- Messages are stored on our servers to enable message history and syncing across devices
+- When you delete a conversation, it is permanently deleted for all participants
+- Blocked users cannot send you messages or see your messages
+
+### 2.7 Block and Report Data
 
 When you use safety and moderation features:
 
@@ -91,7 +119,7 @@ When you use safety and moderation features:
 **Reporting Data:**
 - User ID of reporter (you)
 - User ID of reported user
-- Content type being reported (post, comment, user profile)
+- Content type being reported (post, comment, user profile, direct message)
 - Content ID of reported item
 - Report reason category (harassment, spam, inappropriate content, hate speech, violence, impersonation)
 - Description provided with report
@@ -101,7 +129,7 @@ When you use safety and moderation features:
 
 **Important:** When you block a user, they are NOT notified. Blocking is silent and permanent. Report data is reviewed by our moderation team within 24 hours, and reported content is immediately hidden from your view.
 
-### 2.7 Comments and Engagement Data
+### 2.8 Comments and Engagement Data
 
 When you interact with social features:
 
@@ -111,7 +139,7 @@ When you interact with social features:
 - Comment timestamps - When comments were posted
 - Engagement metadata - Interaction counts and activity
 
-### 2.8 Device and Technical Information
+### 2.9 Device and Technical Information
 
 We automatically collect certain technical information:
 
@@ -125,7 +153,7 @@ We automatically collect certain technical information:
 
 This information is collected through the Expo and React Native frameworks that power the App.
 
-### 2.9 Usage and Analytics Data
+### 2.10 Usage and Analytics Data
 
 We collect information about how you use the App:
 
@@ -138,7 +166,7 @@ We collect information about how you use the App:
 
 **Note:** We do NOT use third-party analytics services like Google Analytics or Facebook Analytics.
 
-### 2.10 Agreement Acceptance Metadata
+### 2.11 Agreement Acceptance Metadata
 
 We store metadata about your acceptance of our Terms of Service and Privacy Policy:
 
@@ -146,7 +174,7 @@ We store metadata about your acceptance of our Terms of Service and Privacy Poli
 - Document version - Which version of the agreements you accepted
 - IP address at acceptance - For verification purposes
 
-### 2.11 Moderation and Enforcement Data
+### 2.12 Moderation and Enforcement Data
 
 When enforcement actions are taken:
 
@@ -155,7 +183,7 @@ When enforcement actions are taken:
 - Email notifications sent regarding enforcement
 - Deleted account metadata - Record that account was terminated and when
 
-### 2.12 Information We Do NOT Collect
+### 2.13 Information We Do NOT Collect
 
 To be clear, we do NOT collect:
 
@@ -165,12 +193,13 @@ To be clear, we do NOT collect:
 - Biometric data (fingerprints, face scans)
 - Microphone or audio recordings
 - Contact lists from your device
-- Text messages or call logs
+- Text messages or call logs from your device's SMS
 - Photos from your device (unless you explicitly select one for your profile)
 - Health or medical information
 - Government identification numbers
 - Information about your actual poker winnings or taxes
 - Information about blocked users' activity (you cannot see their content)
+- Message content from users you have blocked
 
 ## 3. How We Use Your Information
 
@@ -202,13 +231,26 @@ We use your information to:
 - Display comments and likes on posts
 - Facilitate social interactions between friends
 
-### 3.3 To Maintain Safety, Security, and Community Standards
+### 3.3 To Enable Direct Messaging
 
 We use your information to:
 
-- Process reports of abusive or inappropriate content
+- Deliver messages between you and other users in real-time
+- Store message history so you can access past conversations
+- Display read receipts showing when messages have been seen
+- Show typing indicators when users are composing messages
+- Sync messages across your devices
+- Enable you to start conversations with friends
+- Maintain conversation lists and previews
+- Calculate and display unread message counts
+
+### 3.4 To Maintain Safety, Security, and Community Standards
+
+We use your information to:
+
+- Process reports of abusive or inappropriate content (including messages)
 - Review and enforce our Community Standards
-- Block users from interacting with each other
+- Block users from interacting with each other (including via messages)
 - Identify and remove content that violates our Terms
 - Detect and prevent fraud and unauthorized access
 - Identify and ban users who violate our Terms of Service
@@ -224,444 +266,232 @@ We use your information to:
 - We take enforcement actions including permanent account termination for significant violations
 - Reported content is immediately hidden from the reporter's view
 - All report data is stored securely and treated confidentially
+- Reports of messaging abuse are treated with the same urgency as other content reports
 
 **Blocking Functionality:**
 - When you block a user, we create a permanent block record
-- Blocked users cannot see your profile, posts, or activity
-- All friend connections between you and blocked users are permanently severed
-- Blocked users are prevented from interacting with you in any way
-- Block records are maintained indefinitely to enforce blocking
+- Blocked users cannot send you direct messages
+- Blocked users cannot see your content or profile
+- Your existing conversations with blocked users are hidden
+- Blocking is immediate and permanent until you choose to unblock
 
-### 3.4 To Improve the App
+## 4. Data Retention
 
-We use aggregated, anonymized usage data to:
+### 4.1 Active Account Data
 
-- Identify bugs and technical issues
-- Understand which features are most popular
-- Improve app performance and user experience
-- Develop new features based on usage patterns
-- Test new functionality
-- Enhance content moderation systems
+While your account is active, we retain:
 
-### 3.5 To Comply with Legal Obligations
+- All poker session data you've entered
+- Profile information and pictures
+- Friend connections and social data
+- Comments and engagement data
+- Block and report records
+- **Direct message history and conversations**
 
-We may use your information to:
+### 4.2 Direct Message Retention
 
-- Respond to subpoenas or court orders
-- Comply with applicable laws and regulations
-- Cooperate with law enforcement when legally required
-- Enforce our Terms of Service and Community Standards
-- Protect our legal rights
-- Investigate illegal activity and ban involved users
+- Messages are retained as long as your account is active
+- When you delete a conversation, all messages in that conversation are permanently deleted for all participants
+- When you delete your account, all your messages are permanently deleted
+- We do not retain copies of deleted messages
 
-### 3.6 To Communicate with You
+### 4.3 Deleted Accounts
 
-We use your email address to:
+When you delete your account:
 
-- Send important account notifications
-- Notify you of enforcement actions (warnings, suspensions, bans)
-- Respond to support inquiries
-- Inform you of Terms or Privacy Policy changes
-- Send security alerts about your account
+- Your personal data is removed within 30 days
+- Some anonymized data may be retained for analytics
+- Legal hold data may be retained as required by law
+- Backup data may persist for up to 90 days before full deletion
+- Your messages are permanently deleted and cannot be recovered
 
-**Note:** We do NOT send marketing emails or promotional messages.
+### 4.4 Report and Enforcement Data
 
-### 3.7 What We Do NOT Use Your Information For
+We retain moderation data (including message reports) for:
 
-We do NOT:
+- Active reports: Until resolved
+- Resolved reports: 2 years for compliance and appeals
+- Account termination records: Indefinitely to prevent re-registration
+- Violation history: 2 years from last violation
 
-- Sell your personal information to third parties
-- Send marketing emails or promotional messages (unless you opt in)
-- Use your data for advertising purposes
-- Share your data with advertisers
-- Track you across other websites or apps
-- Use your information for AI training without permission
-- Share report details with reported users
-- Notify blocked users that they've been blocked
+## 5. How We Share Your Information
 
-## 4. How We Share Your Information
+### 5.1 With Your Friends
 
-### 4.1 With Your Friends (Your Choice)
+When you connect with friends, they can see:
 
-When you add friends on ChipChaser, you explicitly choose to share:
+- Your poker performance and statistics
+- Content you choose to share
+- Your profile picture and profile information
+- Leaderboard rankings
+- Direct messages you send to them
 
-- Your poker session performance (visible on leaderboards)
-- Your profile information and picture
-- Games and audits you choose to post to the feed
-- Your username and basic profile details
-- Comments and likes on their posts
+### 5.2 With Service Providers
 
-You control what you share through privacy settings and by choosing what to post.
+We share data with trusted service providers who help us operate the App:
 
-**Blocking Effects on Sharing:**
-- When you block a user, ALL sharing with that user stops immediately
-- Blocked users can no longer see any of your content
-- Past interactions may be hidden or removed
+| Provider | Purpose | Data Shared |
+|----------|---------|-------------|
+| Clerk | Authentication | Email, username, login data |
+| Amazon Web Services | Hosting, storage | All App data (encrypted) |
+| Neon | Database | All App data (encrypted) |
 
-### 4.2 With Service Providers
+These providers are contractually obligated to protect your data and use it only for the services they provide to us.
 
-We share your information with trusted third-party service providers who help us operate the App:
+### 5.3 For Legal Reasons
 
-**Clerk (Authentication Provider)**
-- What they receive: Email, username, password (encrypted), authentication tokens
-- Why: To provide secure account authentication and login services
-- Their role: Data processor acting on our behalf
-- Location: United States
-- Their privacy policy: https://clerk.com/legal/privacy
+We may disclose your information, including message content, if required to:
 
-**Amazon Web Services (AWS)**
-- What they receive: All app data including sessions, profiles, pictures, usage data, reports, blocks, and comments
-- Why: To host our backend infrastructure and store data
-- Data centers: US-West-2 (Oregon region)
-- Their role: Infrastructure provider and data processor
-- Security: AWS complies with SOC 2, ISO 27001, and other security standards
-- Their privacy policy: https://aws.amazon.com/privacy/
-
-**Amazon S3 (File Storage)**
-- What they receive: Profile pictures you upload
-- Why: To securely store and serve images
-- Location: US-West-2 (Oregon)
-- Security: Encrypted storage with access controls
-
-### 4.3 For Legal Reasons
-
-We may disclose your information if required by law or in good faith belief that such action is necessary to:
-
-- Comply with a legal obligation, court order, or subpoena
-- Protect and defend our rights or property
-- Prevent or investigate possible wrongdoing, including violations of our Terms
-- Protect the personal safety of users or the public
+- Comply with a legal obligation, court order, or government request
+- Protect the safety of any person
 - Protect against legal liability
-- Comply with law enforcement requests
-- Investigate illegal activity reported through our systems
+- Investigate potential Terms violations
+- Respond to lawful requests from public authorities
 
-**Report-Related Disclosures:**
-- We may share report information with law enforcement if illegal activity is reported
-- We cooperate with valid legal requests for report data
-- We may disclose user information in response to serious safety threats
+### 5.4 Business Transfers
 
-We will notify you of legal disclosures unless legally prohibited from doing so.
+If Bod Productions is involved in a merger, acquisition, or sale of assets, your information may be transferred to the successor entity. We will notify you before your data becomes subject to a different privacy policy.
 
-### 4.4 Business Transfers
-
-If Bod Productions is involved in a merger, acquisition, asset sale, or bankruptcy, your information may be transferred to the new entity. We will notify you via email and/or a prominent notice in the App before your information is transferred and becomes subject to a different privacy policy.
-
-### 4.5 With Your Consent
-
-We may share your information for purposes not described in this Privacy Policy if we obtain your explicit consent.
-
-### 4.6 Aggregated and Anonymized Data
-
-We may share aggregated, anonymized data that cannot identify you personally:
-
-- Overall app usage statistics
-- General trends in poker tracking
-- Feature popularity metrics
-- Aggregated moderation statistics (e.g., total reports received, common violation types)
-
-This data is used to improve the App and may be shared with partners or the public.
-
-### 4.7 What We DO NOT Share
+### 5.5 What We Do NOT Share
 
 We do NOT:
 
 - Sell your personal information to third parties
 - Share your data with advertisers
 - Share your data with data brokers
-- Provide your email to marketing companies
-- Share your poker performance with anyone other than your friends
-- Notify reported users who reported them
-- Notify blocked users who blocked them
-- Share report details publicly
-
-## 5. Data Storage and Security
-
-### 5.1 Where Your Data is Stored
-
-Your data is stored on Amazon Web Services (AWS) cloud infrastructure in the US-West-2 (Oregon) region of the United States.
-
-Specifically:
-
-- Backend services: AWS Lambda serverless functions in Oregon
-- Database: AWS-managed databases in Oregon (including reports, blocks, comments)
-- Profile pictures: Amazon S3 storage buckets in Oregon
-- Authentication data: Managed by Clerk in their secure infrastructure
-
-### 5.2 Security Measures
-
-We implement reasonable security measures to protect your information:
-
-**Technical Safeguards:**
-- Encryption in transit (TLS/SSL for all data transmission)
-- Encryption at rest for stored data
-- Secure password hashing (via Clerk)
-- Regular security updates and patches
-- Access controls and authentication requirements
-- Firewalls and network security
-- Secure storage of report and block data
-
-**Organizational Safeguards:**
-- Limited employee access to user data
-- Moderation team access restricted to report review
-- Security training and awareness
-- Incident response procedures
-- Regular security reviews
-- Confidential handling of report data
-
-**AWS Security Features:**
-- SOC 2, ISO 27001, and PCI DSS compliance
-- DDoS protection
-- Automated backups
-- Infrastructure security monitoring
-
-### 5.3 Security Limitations
-
-While we strive to protect your information, no method of transmission or storage is 100% secure. We cannot guarantee absolute security. You use the App at your own risk.
-
-You are responsible for:
-
-- Keeping your password secure
-- Not sharing your account credentials
-- Logging out on shared devices
-- Reporting suspicious activity
-
-### 5.4 Data Retention
-
-We retain your information for as long as your account is active or as needed to provide services. Specifically:
-
-**Active Accounts:**
-- Account data: Retained while account exists
-- Session data: Retained indefinitely or until you delete
-- Profile pictures: Retained until you change or delete them
-- Audit data: Retained until you delete
-- Block records: Retained indefinitely to enforce blocks
-- Comments and likes: Retained until deleted
-
-**Report Data:**
-- Active reports: Retained until reviewed and resolved
-- Closed reports: Retained for 1 year for enforcement and legal compliance
-- Report outcomes: Retained as enforcement records
-
-**Deleted Accounts:**
-- Most data is permanently deleted within 30 days
-- Block records may be retained to prevent re-harassment
-- Report records may be retained for legal compliance (e.g., fraud prevention records)
-- Backups may retain data for up to 90 days before automatic deletion
-- Enforcement records (bans, violations) retained permanently
-
-**Banned Accounts:**
-- Account data and content: Permanently deleted immediately
-- Ban record: Retained permanently to prevent account recreation
-- Report data related to ban: Retained for legal compliance
-- User email: May be retained to prevent new account creation
-
-**Legal Requirements:**
-- We may retain certain data longer if required by law
-- Financial records may be retained for tax purposes (if applicable)
-- Dispute-related data may be retained until resolution
-- Safety and enforcement records may be retained indefinitely
-
-### 5.5 Data Backups
-
-We maintain regular backups of data to prevent loss. Backup data is:
-
-- Stored securely in AWS infrastructure
-- Encrypted at rest
-- Automatically deleted after 90 days
-- Not accessible to users
-- Used only for disaster recovery
+- Provide your information to third parties for their marketing purposes
+- Share your message content with anyone other than conversation participants
+- Use your messages for advertising or marketing purposes
 
 ## 6. Your Privacy Rights and Choices
 
 ### 6.1 Access Your Data
 
-You have the right to access your personal information. You can:
+You have the right to access the personal information we hold about you. You can:
 
-- View your profile, sessions, audits, and comments within the App
-- Request a copy of your data by emailing memariaf21@gmail.com
-- View your block list (users you've blocked)
-- We will respond within 30 days
-
-**Note:** You cannot view reports you've submitted or report outcomes for privacy reasons.
+- View your poker session data in the App
+- View your profile information
+- View your friend connections
+- View your conversation history
+- Request a copy of your data by contacting us
 
 ### 6.2 Correct Your Data
 
-You have the right to correct inaccurate information:
+You can update or correct your personal information:
 
-- Update your profile information in the App
-- Edit session data and audit records
-- Edit or delete your comments
-- Contact us to correct information you cannot change yourself
+- Edit your profile and username in the App
+- Modify poker session data
+- Update profile pictures
+- Contact us for corrections to data you cannot modify directly
 
 ### 6.3 Delete Your Data
 
-You have the right to delete your account and data:
+You can request deletion of your data:
 
-**Using the App:**
-- Navigate to Settings → Account → Delete Account
-- Confirm your decision
-- Your account and data will be permanently deleted
+- Delete individual poker sessions in the App
+- Delete shared posts and comments
+- Delete individual conversations (deletes for all participants)
+- Delete your entire account, including all messages, using the in-app feature
+- Request deletion of specific data by contacting us
 
-**What Gets Deleted:**
-- Your account and login credentials
-- All poker session data
-- Cash game auditor records
-- Profile picture and profile information
-- Friend connections
-- Shared posts and feed activity
-- Comments and likes
+### 6.4 Control Social Sharing
 
-**What May Be Retained:**
-- Metadata required for legal compliance (acceptance timestamps)
-- Aggregated, anonymized analytics data
-- Data in backups for up to 90 days
-- Records of Terms of Service violations
-- Information required by law
-- Block records (to protect users you blocked from re-contacting you)
-- Report records (for legal compliance and safety)
+You can manage what others see:
 
-**Contact Us:** Email memariaf21@gmail.com to request account deletion if you cannot access the App.
+- Choose what poker data to share with friends
+- Remove friends to restrict their access
+- Block users from messaging you or seeing your content
+- Report inappropriate content or messages
 
-### 6.4 Export Your Data
+### 6.5 Direct Messaging Controls
 
-You can export certain data from the App:
+You have control over your messaging experience:
 
-- Cash game auditor data as documents
-- You can request a full data export by emailing memariaf21@gmail.com
+- You can only receive messages from friends (users you have accepted)
+- Block any user to prevent them from messaging you
+- Delete any conversation (deletes for all participants)
+- Report abusive messages to our moderation team
 
-### 6.5 Control Social Sharing
+## 7. Data Security
 
-You can control what you share:
+### 7.1 Security Measures
 
-- Manage your friend list
-- Remove friends at any time
-- Choose what to post to your feed
-- Adjust privacy settings in the App
-- Delete comments you've posted
+We implement appropriate technical and organizational security measures:
 
-### 6.6 Blocking and Safety Controls
+- Encryption in transit (TLS/SSL) for all data transmission, including messages
+- Encryption at rest for stored data
+- Secure authentication through Clerk
+- Regular security assessments
+- Access controls limiting who can view user data
+- WebSocket connections secured with authentication tokens
 
-You have control over your safety:
+### 7.2 Message Security
 
-- Block users who you don't want to interact with
-- Blocked users cannot see your content or interact with you
-- Blocking is permanent and cannot be undone
-- Block list is private and not visible to others
+Direct messages are protected by:
 
-### 6.7 Reporting Controls
+- Encrypted transmission via secure WebSocket connections
+- Server-side storage with encryption at rest
+- Authentication required for all message access
+- Access limited to conversation participants only
 
-You can report violations:
+### 7.3 Your Security Responsibilities
 
-- Report posts, comments, or users that violate our Terms
-- Reported content is immediately hidden from your view
-- Reports are confidential
-- You will not be notified of specific actions taken
+You are responsible for:
 
-### 6.8 Opt-Out Rights
+- Maintaining the confidentiality of your login credentials
+- Logging out on shared devices
+- Reporting suspected unauthorized access
+- Using strong, unique passwords
+- Not sharing sensitive information in messages
 
-Since we do not:
+### 7.4 Security Limitations
 
-- Send marketing emails
-- Use advertising tracking
-- Share data with third-party marketers
+While we strive to protect your data:
 
-There are no marketing opt-out choices required.
+- No system is 100% secure
+- We cannot guarantee absolute security
+- You transmit data at your own risk
+- Be cautious about what information you share in messages
 
-**You will receive:**
-- Essential account notifications (e.g., ban notifications)
-- Security alerts
-- Terms and Privacy Policy updates
+## 8. Children's Privacy
 
-## 7. State-Specific Privacy Rights
+ChipChaser is not intended for users under 18 years of age. We do not knowingly collect information from children under 18. If we discover that a child under 18 has provided us with personal information, we will:
 
-### 7.1 California Residents (CCPA/CPRA)
+- Immediately delete the account and all associated data, including messages
+- Remove any content posted by the user
+- Take steps to prevent future access
 
-If you are a California resident, you have additional rights under the California Consumer Privacy Act (CCPA) and California Privacy Rights Act (CPRA):
+If you believe a child under 18 is using the App, please contact us immediately at memariaf21@gmail.com.
 
-**Right to Know:** You can request:
-- Categories of personal information we collect
-- Specific pieces of personal information we hold
-- Categories of sources from which we collect information
-- Our business purposes for collecting information
-- Categories of third parties with whom we share information
+## 9. Third-Party Services
 
-**Right to Delete:** You can request deletion of your personal information, subject to certain exceptions.
+### 9.1 Authentication (Clerk)
 
-**Right to Correct:** You can request correction of inaccurate personal information.
+We use Clerk for user authentication. Clerk processes:
 
-**Right to Opt-Out of Sale:** We do NOT sell your personal information, so there is nothing to opt out of.
+- Email addresses
+- Usernames
+- Authentication tokens
+- Login history
 
-**Right to Non-Discrimination:** We will not discriminate against you for exercising your privacy rights.
+For more information: https://clerk.com/legal/privacy
 
-**How to Exercise Your Rights:** Email us at memariaf21@gmail.com with "California Privacy Rights" in the subject line. We will respond within 45 days.
+### 9.2 Database (Neon)
 
-**Verification:** We may need to verify your identity before fulfilling requests. We will ask for information to match against our records.
+Our PostgreSQL database is hosted by Neon, which stores:
 
-**Authorized Agents:** You may designate an authorized agent to make requests on your behalf. The agent must provide proof of authorization.
+- All user data and content
+- All direct messages and conversations
+- All App functionality data
 
-### 7.2 Virginia Residents (VCDPA)
+For more information: https://neon.tech/privacy-policy
 
-Virginia residents have similar rights to access, correct, delete, and obtain a copy of their personal information. Contact us at memariaf21@gmail.com to exercise these rights.
+### 9.3 Cloud Hosting (Amazon Web Services)
 
-### 7.3 Other U.S. State Laws
+Our backend services and data storage use AWS:
 
-Residents of Colorado, Connecticut, Utah, and other states with privacy laws may have similar rights. Contact us to exercise your rights under applicable state laws.
-
-### 7.4 European Union / UK Residents (GDPR)
-
-If you are in the EU or UK, you have rights under the General Data Protection Regulation (GDPR):
-
-**Legal Basis for Processing:**
-- Contract performance: To provide the App services
-- Legitimate interests: To improve the App, prevent fraud, and maintain safety
-- Consent: For optional features like social sharing
-
-**Your Rights:**
-- Right to access your data
-- Right to rectification (correction)
-- Right to erasure ("right to be forgotten")
-- Right to restrict processing
-- Right to data portability
-- Right to object to processing
-- Right to withdraw consent
-
-**International Data Transfers:** Your data may be transferred to the United States. We rely on standard contractual clauses and adequacy decisions for lawful transfers.
-
-**Supervisory Authority:** You have the right to lodge a complaint with your local data protection authority.
-
-**Contact for GDPR Requests:** Email memariaf21@gmail.com with "GDPR Request" in the subject line.
-
-## 8. Children's Privacy (COPPA Compliance)
-
-ChipChaser is NOT intended for children under 18 years of age.
-
-- We do not knowingly collect information from anyone under 18
-- You must be at least 18 to create an account
-- If we discover a user is under 18, we will immediately delete their account
-- If you believe a child under 18 has provided information to us, contact us immediately at memariaf21@gmail.com
-
-We comply with the Children's Online Privacy Protection Act (COPPA) and do not knowingly target or collect information from minors.
-
-## 9. Third-Party Links and Services
-
-### 9.1 Third-Party Websites
-
-The App may contain links to third-party websites or services. We are not responsible for the privacy practices of these third parties. We encourage you to review their privacy policies before providing any information.
-
-### 9.2 Clerk Authentication
-
-Clerk is our authentication service provider. When you create an account, you agree to Clerk's terms and privacy policy. For more information:
-
-- Website: https://clerk.com
-- Privacy Policy: https://clerk.com/legal/privacy
-
-Clerk processes your authentication data on our behalf and is contractually obligated to protect your information.
-
-### 9.3 Amazon Web Services (AWS)
-
-AWS provides our cloud infrastructure. AWS acts as a data processor and is bound by strict security and privacy obligations. For more information:
-
-- Website: https://aws.amazon.com
+- Services: Lambda, S3, API Gateway
+- Region: US-West-2 (Oregon)
 - Privacy Policy: https://aws.amazon.com/privacy/
 
 ### 9.4 Expo Framework
@@ -700,7 +530,7 @@ The App may use local storage on your device to:
 
 - Keep you logged in (authentication tokens)
 - Store app preferences and settings
-- Cache data for performance
+- Cache data for performance (including conversation lists)
 - Remember your session state
 
 This data is stored locally on your device and is not shared with third parties.
@@ -712,6 +542,7 @@ We use essential cookies/storage that are necessary for the App to function:
 - Authentication tokens (via Clerk)
 - Session management
 - Security features
+- Cached conversation data for faster loading
 
 These cannot be disabled without preventing the App from working.
 
@@ -735,7 +566,7 @@ In the event of a data breach that affects your personal information:
 - We will provide recommendations to protect yourself
 - We will notify relevant regulatory authorities if required by law
 
-If you suspect unauthorized access to your account, immediately:
+If you suspect unauthorized access to your account or messages, immediately:
 
 1. Change your password
 2. Contact us at memariaf21@gmail.com
@@ -748,7 +579,7 @@ If you suspect unauthorized access to your account, immediately:
 We may update this Privacy Policy from time to time to reflect:
 
 - Changes in our data practices
-- New features or services (including moderation tools)
+- New features or services (including messaging features)
 - Legal or regulatory requirements
 - User feedback
 
@@ -792,7 +623,7 @@ For specific privacy requests, please include:
 We may extend these timeframes in complex cases and will notify you of any delay.
 
 **Content Moderation Inquiries:**  
-For questions about reports, blocks, or enforcement actions, email memariaf21@gmail.com with "Moderation Inquiry" in the subject line.
+For questions about reports, blocks, or enforcement actions related to posts, comments, or messages, email memariaf21@gmail.com with "Moderation Inquiry" in the subject line.
 
 ## 16. Additional Information
 
@@ -821,7 +652,7 @@ We do not intentionally collect sensitive personal information such as:
 - Genetic or biometric data
 - Sexual orientation
 
-If you choose to include such information in free-text fields (like session notes or comments), you do so at your own discretion.
+If you choose to include such information in free-text fields (like session notes, comments, or direct messages), you do so at your own discretion.
 
 ## 17. Summary of Key Points
 
@@ -831,6 +662,7 @@ If you choose to include such information in free-text fields (like session note
 - Profile pictures you upload
 - Friends and social interactions
 - Comments and engagement
+- **Direct messages and conversations**
 - Block and report data
 - Technical device information
 
@@ -838,31 +670,39 @@ If you choose to include such information in free-text fields (like session note
 - Provide tracking and social features
 - Calculate performance metrics
 - Enable friend connections and leaderboards
+- **Deliver and store direct messages**
 - Process reports and enforce Community Standards
 - Maintain safety through blocking
 - Improve the App
 
 **Who we share with:**
-- Your friends (what you choose to share)
+- Your friends (what you choose to share, including messages to them)
 - Clerk (authentication)
 - AWS (hosting)
+- Neon (database)
 - Legal authorities (when required)
 
 **Your rights:**
 - Access your data
 - Correct inaccurate information
-- Delete your account
+- Delete your account and messages
 - Export certain data
 - Control social sharing
-- Block users
+- Block users from messaging you
 - Report violations
 
 **Safety features:**
-- Block users permanently
-- Report objectionable content
+- Block users permanently (including from messaging)
+- Report objectionable content and messages
 - Reports reviewed within 24 hours
 - Confidential reporting
 - Immediate content hiding when reported
+
+**Message privacy:**
+- Messages only visible to participants
+- Messages not used for advertising
+- Deleted conversations permanently removed
+- Blocked users cannot message you
 
 **Security:**
 - Data stored in AWS Oregon
@@ -882,11 +722,12 @@ By using ChipChaser, you acknowledge that:
 4. You agree to the storage of your data in the United States
 5. You are at least 18 years of age
 6. You understand how blocking and reporting features work
+7. You consent to the storage and processing of your direct messages as described
 
 Your consent is recorded with a timestamp when you accept this Privacy Policy in the App.
 
 ---
 
-**This Privacy Policy was last updated on December 23, 2024 and is effective immediately.**
+**This Privacy Policy was last updated on January 12, 2025 and is effective immediately.**
 
-© 2024 Bod Productions. All rights reserved.
+© 2025 Bod Productions. All rights reserved.
