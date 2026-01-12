@@ -1,6 +1,6 @@
 # ChipChaser Terms of Service
 
-**Last Updated: December 23, 2024**
+**Last Updated: January 12, 2025**
 
 ## 1. Acceptance of Terms
 
@@ -25,6 +25,8 @@ ChipChaser is a poker bankroll tracking application with social features that al
 - Upload profile pictures and customize your profile
 - Export and share audited cash game data as documents
 - Manage and organize poker-related financial data
+- **Send and receive direct messages with friends**
+- **View real-time typing indicators and read receipts in conversations**
 
 **Important Disclaimer:** ChipChaser is a TRACKING AND RECORDING tool only. We do not facilitate, host, or conduct any gambling activities. We do not process any real money transactions, wagering, or betting. We do not organize, promote, or operate poker games. Users are solely responsible for their participation in poker games and compliance with applicable gambling laws in their jurisdiction.
 
@@ -59,6 +61,7 @@ You may delete your account at any time using the delete account feature within 
 
 - Your account data will be permanently removed from our active systems
 - Your profile picture and user-generated content will be deleted
+- **All your direct messages and conversations will be permanently deleted**
 - Some data may be retained as required by law or legitimate business purposes (see Privacy Policy)
 - Friends will no longer see your profile or data on leaderboards
 - Deletion is irreversible and cannot be undone
@@ -76,6 +79,7 @@ You retain ownership of all data you input into ChipChaser, including:
 - Cash game auditor records
 - Profile pictures and profile information
 - Comments and interactions on posts
+- **Direct messages you send to other users**
 
 ### 5.2 License Grant
 
@@ -87,7 +91,7 @@ When you enter venue names or game locations, you are providing descriptive text
 
 ### 5.4 Content Responsibilities
 
-You are solely responsible for the content you create, share, or transmit through the App. You agree not to:
+You are solely responsible for the content you create, share, or transmit through the App, **including direct messages**. You agree not to:
 
 - Post false, misleading, or fraudulent information
 - Share content that violates any law or third-party rights
@@ -101,6 +105,8 @@ You are solely responsible for the content you create, share, or transmit throug
 - Post hate speech, discriminatory content, or offensive symbols
 - Make violent threats or encourage violence
 - Engage in bullying or targeted harassment
+- **Send harassing, threatening, or abusive messages to other users**
+- **Send spam, unsolicited promotions, or repetitive messages**
 
 ### 5.5 Shared Content
 
@@ -123,6 +129,7 @@ You may send and accept friend requests from other ChipChaser users. By connecti
 
 - You agree to share your poker performance data with them
 - They may view your activity on leaderboards and social feeds
+- **They may send you direct messages**
 - You can manage your friend list and remove connections at any time
 - Your profile picture will be visible to your friends
 - When you remove a friend, they will no longer see your future activity
@@ -154,29 +161,71 @@ You control what you share to the feed. Once posted, your friends may view the c
 
 You maintain control over your social sharing through the App's privacy settings. You are responsible for reviewing and adjusting your privacy preferences.
 
+### 6.5 Direct Messaging
+
+ChipChaser provides a direct messaging feature that allows you to communicate privately with your friends.
+
+**How Direct Messaging Works:**
+- You can only send messages to users who are your friends (users you have mutually connected with)
+- Messages are delivered in real-time when both users are online
+- You can see when messages have been sent, delivered, and read
+- You can see when the other user is typing a message
+- Message history is stored so you can access past conversations
+
+**Your Responsibilities When Messaging:**
+- Use messaging for legitimate, personal communication only
+- Do not send spam, unsolicited promotions, or commercial solicitations
+- Do not send harassing, threatening, abusive, or inappropriate content
+- Do not send content that violates our Community Standards (Section 7)
+- Respect other users' boundaries and right to not respond
+- Do not share illegal content or content that infringes on others' rights
+
+**Message Retention and Deletion:**
+- Messages are stored on our servers to enable message history and syncing
+- When you delete a conversation, it is permanently deleted for all participants
+- Neither you nor the other participant can recover deleted conversations
+- When you delete your account, all your messages are permanently deleted
+- We do not retain copies of deleted messages
+
+**Blocking and Messaging:**
+- If you block a user, they cannot send you messages
+- Existing conversations with blocked users will be hidden from your view
+- Blocked users will not be notified that they have been blocked
+- You will not receive any messages from blocked users
+
+**Reporting Abusive Messages:**
+- You can report abusive, harassing, or inappropriate messages
+- Reports are reviewed by our moderation team within 24 hours
+- Serious violations may result in the sender's account being permanently terminated
+- All reports are treated confidentially
+
 ## 7. Community Standards and Content Moderation
 
 ### 7.1 Prohibited Content and Behavior
 
-ChipChaser maintains a safe and respectful community. The following content and behaviors are strictly prohibited:
+ChipChaser maintains a safe and respectful community. The following content and behaviors are strictly prohibited **in all areas of the App, including posts, comments, profile content, and direct messages**:
 
 **Harassment or Bullying:**
 - Targeted harassment, intimidation, or bullying of other users
 - Repeated unwanted contact or messages
 - Threats or encouragement of self-harm
 - Doxxing (sharing private information without consent)
+- **Sending harassing or threatening direct messages**
+- **Continuing to contact users who have asked you to stop**
 
 **Spam or Misleading Content:**
 - Repetitive, unsolicited, or promotional messages
 - Misleading information or fraudulent schemes
 - Impersonation of other users or entities
 - Fake accounts or bot activity
+- **Sending spam or unsolicited promotions via direct message**
 
 **Inappropriate Content:**
 - Sexually explicit material or nudity
 - Graphic violence or gore
 - Content exploiting or endangering minors
 - Promotion of illegal activities
+- **Sending sexually explicit or inappropriate content via direct message**
 
 **Hate Speech or Symbols:**
 - Content promoting hatred based on race, ethnicity, religion, gender, sexual orientation, disability, or other protected characteristics
@@ -188,6 +237,7 @@ ChipChaser maintains a safe and respectful community. The following content and 
 - Glorification of violence or dangerous acts
 - Instructions for creating weapons or explosives
 - Content encouraging terrorism or extremism
+- **Sending threats or violent content via direct message**
 
 **Impersonation:**
 - Pretending to be another person, brand, or organization
@@ -214,7 +264,7 @@ ChipChaser employs an automated profanity filter to maintain a respectful enviro
 We provide tools for users to report content or behavior that violates these Terms:
 
 **How to Report:**
-- Use the "Report" button available on posts, comments, and user profiles
+- Use the "Report" button available on posts, comments, user profiles, **and in direct message conversations**
 - Select the appropriate reason for your report
 - Provide additional details to help our review team understand the issue
 
@@ -225,6 +275,7 @@ We provide tools for users to report content or behavior that violates these Ter
 - Hate speech or symbols
 - Violence or threats
 - Impersonation
+- **Abusive or inappropriate messages**
 
 **What Happens After You Report:**
 - The reported content or user will be immediately hidden from your view
@@ -233,6 +284,7 @@ We provide tools for users to report content or behavior that violates these Ter
 - We take appropriate action based on the severity and nature of the violation
 - You will not be notified of specific actions taken against the reported user for privacy reasons
 - All reports are treated confidentially
+- **Reported message content is preserved for review by our moderation team**
 
 **False Reports:**
 - Submitting false or malicious reports is a violation of these Terms
@@ -244,13 +296,16 @@ You have the ability to block users to prevent unwanted interactions:
 
 **How Blocking Works:**
 - Navigate to a user's profile and select "Block User"
+- **You can also block users from within a direct message conversation**
 - Confirm your decision to block the user
 
 **Effects of Blocking:**
 - The blocked user will not be able to view your profile, posts, or activity
-- The blocked user cannot send you friend requests or messages
+- **The blocked user cannot send you direct messages**
+- The blocked user cannot send you friend requests
 - The blocked user will not see you in leaderboards or search results
 - All existing friend connections between you and the blocked user are permanently removed
+- **Existing conversations with the blocked user are hidden from your view**
 - The blocked user will not be notified that they have been blocked
 - You will not see the blocked user's content or activity
 
@@ -263,6 +318,7 @@ You have the ability to block users to prevent unwanted interactions:
 - Blocked users cannot interact with you in any way through the App
 - They cannot view your past or future content
 - They cannot comment on or like your posts
+- **They cannot message you or see your message history**
 - They are completely removed from your ChipChaser experience
 
 ### 7.5 Enforcement and Consequences
@@ -273,6 +329,7 @@ ChipChaser enforces these community standards strictly to maintain a safe enviro
 - All reports are reviewed by our moderation team within 24 hours
 - Reports are assessed based on the severity and nature of the violation
 - Our team examines reported content, context, and user history
+- **Direct message content may be reviewed when investigating reports**
 - We may request additional information if needed
 
 **Enforcement Actions:**
@@ -283,7 +340,7 @@ ChipChaser enforces these community standards strictly to maintain a safe enviro
 
 **What Happens When You're Banned:**
 - Your account is immediately and permanently terminated
-- All your data, including sessions, audits, and profile information, is deleted
+- All your data, including sessions, audits, **messages,** and profile information, is deleted
 - You lose access to the App and cannot create a new account
 - Your friends will no longer see your content or profile
 - You will be notified of your ban via email with the reason for termination
@@ -294,6 +351,7 @@ ChipChaser enforces these community standards strictly to maintain a safe enviro
 - Bans apply to all accounts associated with you
 - Attempting to create new accounts after a ban is prohibited
 - We reserve the right to ban users for any conduct we deem harmful to the community
+- **Abusive behavior in direct messages is treated with the same severity as public content violations**
 
 ### 7.6 Legal Compliance and Law Enforcement
 
@@ -304,7 +362,7 @@ ChipChaser enforces these community standards strictly to maintain a safe enviro
 
 **Cooperation with Authorities:**
 - We cooperate with law enforcement when legally required
-- We may disclose user information in response to valid legal requests
+- We may disclose user information, **including message content,** in response to valid legal requests
 - We comply with court orders, subpoenas, and lawful government demands
 
 **User Responsibility:**
@@ -348,6 +406,7 @@ You agree NOT to:
 - Create multiple accounts for fraudulent purposes
 - Manipulate leaderboard data or game statistics
 - Harass, stalk, or threaten other users
+- **Use direct messaging to harass, spam, or abuse other users**
 - Use the App in any way that could damage our reputation or business
 - Violate any provision of our Community Standards (Section 7)
 
@@ -411,6 +470,7 @@ We do not warrant that:
 - Results from using the App will be accurate, reliable, or current
 - The App will meet your specific requirements
 - Data will be backed up or recoverable
+- **Messages will be delivered instantly or without delay**
 
 ### 12.3 Serverless Architecture
 
@@ -420,6 +480,7 @@ The App operates on serverless cloud infrastructure (AWS Lambda), which means:
 - We cannot guarantee 100% uptime or continuous availability
 - Performance may vary based on factors outside our control
 - Scheduled or emergency maintenance may cause temporary unavailability
+- **Real-time features like messaging may experience delays during high usage**
 
 ### 12.4 Data Accuracy
 
@@ -430,6 +491,7 @@ We do not verify, validate, or audit:
 - Venue names or location descriptions
 - Leaderboard rankings or statistics
 - Shared content accuracy
+- **Content of direct messages between users**
 
 You are solely responsible for the accuracy and completeness of data you enter into the App.
 
@@ -463,11 +525,12 @@ While we implement reasonable data protection and backup measures, we do not gua
 
 While we strive to maintain a safe community through our moderation efforts:
 
-- We do not pre-screen all user-generated content
+- We do not pre-screen all user-generated content, **including direct messages**
 - We cannot guarantee that all violations will be detected or removed
 - Moderation decisions are made at our sole discretion
 - We are not liable for user-generated content that violates these Terms
 - Users interact with each other at their own risk
+- **We are not responsible for the content of messages sent between users**
 
 ## 13. Limitation of Liability
 
@@ -484,9 +547,11 @@ BOD PRODUCTIONS SHALL NOT BE LIABLE FOR ANY:
 - Unauthorized access to or alteration of your data
 - Actions or content of third parties or other users
 - Errors, mistakes, or inaccuracies in the App
-- Disputes between users arising from cash game audits, shared data, or social interactions
+- Disputes between users arising from cash game audits, shared data, **direct messages,** or social interactions
 - Damages resulting from blocked users or reported content
 - Harassment, abuse, or violations of Terms by other users
+- **Content of direct messages sent or received through the App**
+- **Failure to deliver or delay in delivering messages**
 
 ### 13.2 Cap on Liability
 
@@ -498,142 +563,138 @@ These limitations apply:
 
 - Regardless of the legal theory (contract, tort, negligence, strict liability, or otherwise)
 - Even if we have been advised of the possibility of such damages
-- Even if a limited remedy fails of its essential purpose
+- Even if any limited remedy fails of its essential purpose
 
 ### 13.4 State Law Variations
 
-Some jurisdictions do not allow the exclusion or limitation of certain damages, so the above limitations may not apply to you. In such cases, our liability will be limited to the maximum extent permitted by law.
+Some jurisdictions do not allow limitations on implied warranties or exclusion of certain damages. In such jurisdictions, our liability is limited to the maximum extent permitted by law.
 
 ## 14. Indemnification
 
-You agree to indemnify, defend, and hold harmless Bod Productions, its officers, directors, employees, contractors, agents, and affiliates from and against any and all claims, damages, obligations, losses, liabilities, costs, debts, and expenses (including attorney's fees) arising from:
+You agree to indemnify, defend, and hold harmless Bod Productions and its officers, directors, employees, agents, licensors, and suppliers from and against any claims, actions, demands, damages, losses, costs, liabilities, and expenses (including reasonable attorneys' fees) arising from or related to:
 
-- Your use or misuse of the App
-- Your violation of these Terms or Community Standards
-- Your violation of any third-party rights, including privacy or intellectual property rights
-- Content you post, upload, or share through the App (including comments, posts, and profile pictures)
-- Your participation in poker games, gambling activities, or any related financial disputes
-- Disputes arising from cash game auditor data or settlements
-- Your profile picture or any infringement claims related to it
-- Any false, inaccurate, or misleading information you provide
-- Your violation of any applicable laws or regulations
-- Your interactions with other users, including harassment or abuse
-- Reports you submit or enforcement actions taken against you
+- Your use of the App
+- Your violation of these Terms
+- Your violation of any third-party rights
+- Your poker session data or cash game auditor data
+- Content you submit, post, share, **or send via direct message**
+- Your interactions with other users
+- Any inaccurate or misleading information you provide
+- Reports you submit or receive
+- **Direct messages you send to other users**
 
-This indemnification obligation survives termination of these Terms and your use of the App.
+This indemnification obligation survives termination of your account and these Terms.
 
-## 15. Termination
+## 15. Modifications to Terms
 
-### 15.1 Termination by You
+### 15.1 Right to Modify
 
-You may terminate your account at any time by:
+We reserve the right to modify these Terms at any time, for any reason, including but not limited to:
 
-- Using the delete account feature in the App
-- Contacting us at memariaf21@gmail.com
+- Adding new features or services
+- Improving security or user safety
+- Complying with legal requirements
+- Clarifying existing provisions
+- Responding to user feedback
 
-Upon termination initiated by you, we will process your account deletion in accordance with our Privacy Policy.
+### 15.2 Notice of Changes
 
-### 15.2 Termination by Us
-
-We reserve the right to suspend, disable, or terminate your access to the App at any time, with or without notice, for any reason or no reason, including but not limited to:
-
-- Violation of these Terms or Community Standards
-- Fraudulent, abusive, or illegal activity
-- Conduct that harms other users or our business
-- Repeated reports or complaints from other users
-- Violation of content moderation policies
-- Extended periods of inactivity (over 2 years)
-- Requests from law enforcement or legal processes
-- Discontinuation of the App or specific features
-- Any other reason at our sole discretion
-
-**Permanent Bans:**
-- Users who violate Community Standards face immediate and permanent termination
-- Banned accounts and all associated data are permanently deleted
-- Banned users will be notified via email with the reason for termination
-- No refunds, credits, or compensation are provided upon termination
-
-### 15.3 Effect of Termination
-
-Upon termination of your account (whether by you or us):
-
-- Your right to use the App immediately ceases
-- Your access to the App will be disabled
-- Your account data will be deleted in accordance with our Privacy Policy
-- You remain liable for any obligations incurred before termination
-- You must immediately stop using the App
-- Sections of these Terms that by their nature should survive will remain in effect
-
-### 15.4 No Refunds
-
-Since the App is provided free of charge, no refunds are applicable upon termination.
-
-## 16. Modifications to Terms
-
-### 16.1 Right to Modify
-
-We reserve the right to modify, amend, or update these Terms at any time at our sole discretion. When we make changes:
+When we make changes:
 
 - We will update the "Last Updated" date at the top of these Terms
-- We will notify you through the App, email, or other reasonable means
-- Material changes may require your explicit acceptance before continued use
+- We will notify you via in-app notification or email for material changes
+- Material changes may require your explicit consent
+- Your continued use after changes take effect constitutes acceptance
 
-### 16.2 Acceptance of Changes
+### 15.3 Rejection of Changes
 
-Your continued use of the App after the effective date of revised Terms constitutes your acceptance of the changes. If you do not agree to the modified Terms, you must stop using the App and delete your account.
+If you do not agree to the modified Terms:
 
-### 16.3 Responsibility to Review
+- You must stop using the App immediately
+- You should delete your account
+- Continued use after notification means you accept the new Terms
 
-You are responsible for regularly reviewing these Terms. We recommend checking for updates periodically.
+### 15.4 Version History
 
-## 17. Modifications to the App
+We maintain a version history of significant changes to these Terms. You may request previous versions by contacting us.
 
-We reserve the right at any time to:
+## 16. Termination
 
-- Modify, suspend, or discontinue any feature, functionality, or aspect of the App
-- Change the App's design, user interface, or functionality
-- Remove or add features to the App
-- Impose limits on certain features or access to the App
-- Update system requirements or supported devices
-- Modify community standards or content moderation policies
+### 16.1 Termination by You
 
-We will make reasonable efforts to notify you of material changes, but we are not liable for any modifications, suspensions, or discontinuations of the App or its features.
+You may terminate your account at any time by using the delete account feature in the App. Upon termination:
 
-Since the App is provided free of charge, we have no obligation to continue providing the service indefinitely.
+- Your access to the App will end
+- Your data will be deleted as described in our Privacy Policy
+- **All your messages will be permanently deleted**
+- You will lose access to all features and content
 
-## 18. Governing Law and Disputes
+### 16.2 Termination by Us
 
-### 18.1 Governing Law
+We may suspend or terminate your account immediately, without prior notice or liability, for any reason, including but not limited to:
 
-These Terms and your use of the App shall be governed by and construed in accordance with the laws of the State of California and applicable federal laws of the United States, without regard to conflict of law principles.
+- Violation of these Terms
+- Violation of our Community Standards
+- Harmful, fraudulent, or illegal conduct
+- Inactivity for an extended period
+- Request from law enforcement
+- Security concerns
+- Discontinuation of the App
+- **Abusive behavior in direct messages**
 
-### 18.2 Jurisdiction and Venue
+### 16.3 Effect of Termination
 
-You agree that any legal action or proceeding arising from these Terms or the App shall be brought exclusively in the state or federal courts located in California. You consent to the personal jurisdiction of such courts and waive any objection to venue.
+Upon termination:
 
-### 18.3 Dispute Resolution Process
+- Your license to use the App is revoked
+- You must cease all use of the App
+- We may delete your account data
+- Provisions that by their nature should survive will survive (including intellectual property, disclaimers, limitations of liability, indemnification, and dispute resolution)
 
-Before filing any legal claim, you agree to first attempt to resolve disputes through the following process:
+### 16.4 No Refund
 
-1. **Informal Negotiation:** Contact us at memariaf21@gmail.com with a detailed description of the dispute. We will attempt to resolve the matter within 30 days.
+There are no refunds for any reason, as the App is provided free of charge.
 
-2. **Binding Arbitration:** If informal negotiation fails, disputes shall be resolved through binding arbitration in accordance with the rules of the American Arbitration Association (AAA). The arbitration shall be conducted in California, and judgment on the arbitration award may be entered in any court of competent jurisdiction.
+## 17. Governing Law
 
-3. **Small Claims Court:** Either party may bring an individual action in small claims court if the claim qualifies.
+### 17.1 California Law
+
+These Terms are governed by and construed in accordance with the laws of the State of California, without regard to its conflict of law principles.
+
+### 17.2 Federal Law
+
+To the extent applicable, federal law (including the Federal Arbitration Act) will govern these Terms.
+
+### 17.3 Venue
+
+Any legal action or proceeding arising out of or relating to these Terms or the App shall be brought exclusively in the state or federal courts located in California, and you consent to the personal jurisdiction of such courts.
+
+## 18. Dispute Resolution
+
+### 18.1 Informal Resolution
+
+Before initiating any formal dispute resolution, you agree to first contact us at memariaf21@gmail.com to attempt to resolve the dispute informally. We will attempt to resolve the dispute within 30 days.
+
+### 18.2 Binding Arbitration
+
+If informal resolution fails, any dispute, claim, or controversy arising out of or relating to these Terms or the App shall be resolved by binding arbitration administered by the American Arbitration Association (AAA) under its Consumer Arbitration Rules.
+
+Arbitration will be conducted:
+- In California or another mutually agreed location
+- By a single neutral arbitrator
+- Under the AAA's then-current rules
+- With limited discovery as determined by the arbitrator
+- The arbitrator's decision will be final and binding
+
+### 18.3 Exceptions to Arbitration
+
+Either party may bring individual claims in small claims court if the claim qualifies.
 
 ### 18.4 Class Action Waiver
 
 YOU AGREE TO RESOLVE ALL DISPUTES WITH US ON AN INDIVIDUAL BASIS AND NOT AS PART OF ANY CLASS, CONSOLIDATED, OR REPRESENTATIVE ACTION. You waive any right to participate in a class action lawsuit or class-wide arbitration against Bod Productions.
 
-### 18.5 Exceptions to Arbitration
-
-The arbitration requirement does not apply to:
-
-- Claims in small claims court
-- Intellectual property disputes
-- Claims for injunctive relief
-
-### 18.6 Time Limitation
+### 18.5 Time Limitation
 
 You must bring any claim within one (1) year after the cause of action arises, or the claim is permanently barred.
 
@@ -752,7 +813,7 @@ For account support, technical issues, content moderation inquiries, or Privacy 
 We will make reasonable efforts to respond to inquiries within 5-10 business days.
 
 **Content Moderation Contact:**  
-To report violations, abuse, or objectionable content, use the in-app reporting tools. For urgent safety concerns, email memariaf21@gmail.com with "URGENT: Safety Concern" in the subject line.
+To report violations, abuse, or objectionable content (including in direct messages), use the in-app reporting tools. For urgent safety concerns, email memariaf21@gmail.com with "URGENT: Safety Concern" in the subject line.
 
 ## 22. Acceptance and Agreement
 
@@ -765,12 +826,13 @@ BY CREATING AN ACCOUNT, ACCESSING, OR USING THE CHIPCHASER APP, YOU ACKNOWLEDGE 
 5. You understand that ChipChaser does not facilitate gambling and is a tracking tool only
 6. You agree to comply with our Community Standards and content moderation policies
 7. You understand the consequences of violating these Terms, including permanent account termination
-8. Your agreement acceptance has been recorded with a timestamp as metadata
+8. **You understand and agree to the rules governing direct messaging**
+9. Your agreement acceptance has been recorded with a timestamp as metadata
 
 If you do not agree to these Terms, you must immediately cease using the App and delete your account.
 
 ---
 
-**These Terms were last updated on December 23, 2024 and are effective immediately.**
+**These Terms were last updated on January 12, 2025 and are effective immediately.**
 
-© 2024 Bod Productions. All rights reserved.
+© 2025 Bod Productions. All rights reserved.
